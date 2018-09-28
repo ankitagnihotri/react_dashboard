@@ -66,7 +66,7 @@ class MainPage extends Component {
           
   
               <Card className="CustomNoShadowComponent" style={style5}>
-                <CardHeader title={<div className="customCardHeader">Graph
+                <CardHeader title={<div className="customCardHeader"><h4>Graph</h4>
 
                   <LineChart library={{backgroundColor: "#E6E6FA"}} messages={{empty: "Data is not available!!"}}
                    refresh={60} xtitle="TimeStamp" ytitle="Gross Realised PNL"
