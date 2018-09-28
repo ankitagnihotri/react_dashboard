@@ -20,7 +20,6 @@ export const summaryGraphData = () => {
     }
 }
 
-
 export const getCapitalData = () => {
     return (dispatch) => {
         axios.get(CAPITAL_END_POINT

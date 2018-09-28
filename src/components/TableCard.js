@@ -87,7 +87,6 @@ let style1 = {
 }
 
 let style2 = {
-    //width: '90%',
    // overflowX: 'auto',
     marginLeft: 25,
     marginRight: 25,

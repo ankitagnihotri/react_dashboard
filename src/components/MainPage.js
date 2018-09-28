@@ -136,6 +136,7 @@ const mapToStateProps = ({main}) => {
       capital
   };
 };
+
 export default connect(mapToStateProps, {
   summaryGraphData,
   getCapitalData
